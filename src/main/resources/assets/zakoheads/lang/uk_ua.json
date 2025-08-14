@@ -1,0 +1,20 @@
+{
+  "text.autoconfig.zakoheads.title": "Зако Буст",
+  "text.autoconfig.zakoheads.option.otherSize": "Налаштування загальних розмірів",
+  "text.autoconfig.zakoheads.option.otherSize.headSize": "Розмір голови",
+  "text.autoconfig.zakoheads.option.otherSize.rightArmSize": "Розмір правої руки",
+  "text.autoconfig.zakoheads.option.otherSize.leftArmSize": "Розмір лівої руки",
+  "text.autoconfig.zakoheads.option.otherSize.rightLegSize": "Розмір правої ноги",
+  "text.autoconfig.zakoheads.option.otherSize.leftLegSize": "Розмір лівої ноги",
+  "text.autoconfig.zakoheads.option.otherSize.bodySize": "Розмір торса",
+  "text.autoconfig.zakoheads.option.enabled": "Увімкнути мод",
+  "text.autoconfig.zakoheads.option.defaultPartsInPvP": "Стандартні розміри у PvP",
+  "text.autoconfig.zakoheads.option.yourSize": "Налаштування особистих розмірів",
+  "text.autoconfig.zakoheads.option.yourSize.yourHeadSize": "Особистий розмір голови",
+  "text.autoconfig.zakoheads.option.yourSize.yourBodySize": "Особистий розмір торса",
+  "text.autoconfig.zakoheads.option.yourSize.yourRightArmSize": "Особистий розмір правої руки",
+  "text.autoconfig.zakoheads.option.yourSize.yourLeftArmSize": "Особистий розмір лівої руки",
+  "text.autoconfig.zakoheads.option.yourSize.yourRightLegSize": "Особистий розмір правої ноги",
+  "text.autoconfig.zakoheads.option.yourSize.yourLeftLegSize": "Особистий розмір лівої ноги",
+  "text.autoconfig.zakoheads.option.yourSize.enableYourSize": "Увімкнути особисті розміри"
+}

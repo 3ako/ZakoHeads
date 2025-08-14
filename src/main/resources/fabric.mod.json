@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "zakoheads",
+  "version": "${version}",
+  "name": "ZakoHeads",
+  "description": "§6Нету бургера :(",
+  "authors": ["Zako", "zyouime13"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/zakoheads/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.zyouime.zakoheads.client.ZakoHeadsClient"
+    ],
+    "modmenu": [
+      "me.zyouime.zakoheads.modmenu.ModMenuImpl"
+    ]
+  },
+  "mixins": [
+    "zakoheads.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Telegram Zako": "https://t.me/StarikZako",
+        "Telegram Змеёныша": "https://t.me/zyouime13"
+      }
+    }
+  }
+}

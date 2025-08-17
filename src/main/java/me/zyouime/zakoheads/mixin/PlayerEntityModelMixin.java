@@ -41,7 +41,7 @@ public abstract class PlayerEntityModelMixin extends BipedEntityModel<PlayerEnti
         }
         m.zScale = size;
         float f = this.body.xScale;
-        float off = m.pivotX;
+        float off = m.originX;
         if (m == this.rightArm) {
             off = -5.0F - (size - 1) - (f - 1) * 4;
         } else if (m == this.leftArm) {
@@ -51,7 +51,7 @@ public abstract class PlayerEntityModelMixin extends BipedEntityModel<PlayerEnti
         } else if (m == this.leftLeg) {
             off = 1.9F + (size - 1) + (f - 1) * 1.9f;
         }
-        m.pivotX = off;
+        m.originX = off;
     }
 
     @Override

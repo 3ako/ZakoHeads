@@ -1,0 +1,20 @@
+{
+  "text.autoconfig.zakoheads.title": "Zako Boost",
+  "text.autoconfig.zakoheads.option.otherSize": "Other Size Settings",
+  "text.autoconfig.zakoheads.option.otherSize.headSize": "Head Size",
+  "text.autoconfig.zakoheads.option.otherSize.rightArmSize": "Right Arm Size",
+  "text.autoconfig.zakoheads.option.otherSize.leftArmSize": "Left Arm Size",
+  "text.autoconfig.zakoheads.option.otherSize.rightLegSize": "Right Leg Size",
+  "text.autoconfig.zakoheads.option.otherSize.leftLegSize": "Left Leg Size",
+  "text.autoconfig.zakoheads.option.otherSize.bodySize": "Body Size",
+  "text.autoconfig.zakoheads.option.enabled": "Enable Mod",
+  "text.autoconfig.zakoheads.option.defaultPartsInPvP": "Default Parts in PvP",
+  "text.autoconfig.zakoheads.option.yourSize": "Your Size Settings",
+  "text.autoconfig.zakoheads.option.yourSize.yourHeadSize": "Your Head Size",
+  "text.autoconfig.zakoheads.option.yourSize.yourBodySize": "Your Body Size",
+  "text.autoconfig.zakoheads.option.yourSize.yourRightArmSize": "Your Right Arm Size",
+  "text.autoconfig.zakoheads.option.yourSize.yourLeftArmSize": "Your Left Arm Size",
+  "text.autoconfig.zakoheads.option.yourSize.yourRightLegSize": "Your Right Leg Size",
+  "text.autoconfig.zakoheads.option.yourSize.yourLeftLegSize": "Your Left Leg Size",
+  "text.autoconfig.zakoheads.option.yourSize.enableYourSize": "Enable Your Size"
+}

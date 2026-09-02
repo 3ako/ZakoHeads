@@ -8,6 +8,8 @@
   "client": [
     "BossBarHudAccessor",
     "CapeFeatureRendererMixin",
+    "DisplayEntityRenderStateMixin",
+    "DisplayEntityRendererMixin",
     "LivingEntityRendererMixin",
     "PlayerCapeModelMixin",
     "PlayerEntityModelMixin",

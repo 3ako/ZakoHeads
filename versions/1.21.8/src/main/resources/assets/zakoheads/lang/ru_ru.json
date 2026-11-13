@@ -1,0 +1,20 @@
+{
+  "text.autoconfig.zakoheads.title": "Зако Буст",
+  "text.autoconfig.zakoheads.option.otherSize": "Настройки общих размеров",
+  "text.autoconfig.zakoheads.option.otherSize.headSize": "Размер головы",
+  "text.autoconfig.zakoheads.option.otherSize.rightArmSize": "Размер правой руки",
+  "text.autoconfig.zakoheads.option.otherSize.leftArmSize": "Размер левой руки",
+  "text.autoconfig.zakoheads.option.otherSize.rightLegSize": "Размер правой ноги",
+  "text.autoconfig.zakoheads.option.otherSize.leftLegSize": "Размер левой ноги",
+  "text.autoconfig.zakoheads.option.otherSize.bodySize": "Размер торса",
+  "text.autoconfig.zakoheads.option.enabled": "Включить мод",
+  "text.autoconfig.zakoheads.option.defaultPartsInPvP": "Стандартные размеры в PvP",
+  "text.autoconfig.zakoheads.option.yourSize": "Настройки собственных размеров",
+  "text.autoconfig.zakoheads.option.yourSize.yourHeadSize": "Собственный размер головы",
+  "text.autoconfig.zakoheads.option.yourSize.yourBodySize": "Собственный размер торса",
+  "text.autoconfig.zakoheads.option.yourSize.yourRightArmSize": "Собственный размер правой руки",
+  "text.autoconfig.zakoheads.option.yourSize.yourLeftArmSize": "Собственный размер левой руки",
+  "text.autoconfig.zakoheads.option.yourSize.yourRightLegSize": "Собственный размер правой ноги",
+  "text.autoconfig.zakoheads.option.yourSize.yourLeftLegSize": "Собственный размер левой ноги",
+  "text.autoconfig.zakoheads.option.yourSize.enableYourSize": "Вкючить собственные размеры"
+}

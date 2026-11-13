@@ -1,0 +1,4 @@
+plugins { id 'net.fabricmc.fabric-loom' version '1.17.21' }
+apply from: rootProject.file('gradle/target.gradle')
+sourceSets.main.java.srcDir rootProject.file('shared/26/java')
+sourceSets.main.resources.srcDir rootProject.file('shared/26/resources')

@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.zyouime.zakoheads.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+  ],
+  "client": [
+    "BossBarHudAccessor",
+    "CapeFeatureRendererMixin",
+    "DisplayEntityRenderStateMixin",
+    "DisplayEntityRendererMixin",
+    "LivingEntityRendererMixin",
+    "PlayerCapeModelMixin",
+    "PlayerEntityModelMixin",
+    "PlayerEntityRendererMixin",
+    "PlayerEntityRenderStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

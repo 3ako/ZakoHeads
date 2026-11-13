@@ -1,9 +1,14 @@
 pluginManagement {
     repositories {
-        maven {
-            name = 'Fabric'
-            url = 'https://maven.fabricmc.net/'
-        }
+        maven { url = 'https://maven.fabricmc.net/' }
         gradlePluginPortal()
     }
+}
+rootProject.name = 'ZakoHeads'
+def supported = ['1.16.5', '1.20.1', '1.21.4', '1.21.8', '1.21.11', '26.1', '26.2', '26.3']
+def selected = providers.gradleProperty('mc').map { it.split(',').toList() }.getOrElse(supported)
+selected.each { mc ->
+    if (!supported.contains(mc)) throw new GradleException("Unsupported Minecraft version: ${mc}. Available: ${supported.join(', ')}")
+    include(":${mc}")
+    project(":${mc}").projectDir = file("versions/${mc}")
 }
